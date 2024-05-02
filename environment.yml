@@ -1,5 +1,5 @@
 dependencies:
- name: example-environment
+ name: environment
 channels:
   - conda-forge
 dependencies:
